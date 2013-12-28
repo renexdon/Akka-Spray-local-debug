@@ -1,0 +1,4 @@
+2013-12-28 03:24:46,572 INFO  [akka.event.slf4j.Slf4jEventHandler] [] [] : Slf4jEventHandler started
+2013-12-28 03:24:46,786 INFO  [U] [ActorSystem(query)] [query-akka.actor.default-dispatcher-3] : *** No license available. Defaulting to in-memory persistence. ***
+2013-12-28 03:24:47,780 INFO  [akka.event.slf4j.Slf4jEventHandler] [] [] : Slf4jEventHandler started
+2013-12-28 03:24:48,071 INFO  [akka.event.slf4j.Slf4jEventHandler] [] [] : Slf4jEventHandler started
